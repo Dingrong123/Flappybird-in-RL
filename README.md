@@ -1,5 +1,6 @@
 #  Flappybird-in-RL
-<img src="https://github.com/Dingrong123/Flappybird-in-RL/blob/master/assets/sprites/FBgif1.gif" width="250" height="451" alt="图片加载失败时，显示这段字"/>
+<img src="https://github.com/Dingrong123/Flappybird-in-RL/blob/master/assets/sprites/FBgif1.gif" width="250" height="451" alt="图片加载失败"/>
+
 ##  Model
 It is a classical DQN with off-policy strategy. There are 2 networks. One is exploring network and another is target network.
 

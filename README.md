@@ -15,5 +15,5 @@ It takes me 3 whole days to train the model on the desktop
 
 ## Disclaimer
 This work is highly based on the following repos:<br>
-1. [sourabhv/FlapPyBird] (https://github.com/sourabhv/FlapPyBird)
-2. https://github.com/yenchenlin/DeepLearningFlappyBird
+1. [sourabhv/FlapPyBird](https://github.com/sourabhv/FlapPyBird)
+2.  https://github.com/yenchenlin/DeepLearningFlappyBird

@@ -12,7 +12,7 @@ It is a classical DQN with off-policy strategy. There are 2 networks. One is exp
 * The reward of going through pipes is increased to  encourage the bird to act properly.
 
 ## Training process
-It takes me 3 whole days to train the model on the desktop
+It takes me 3 whole days to train the model on GTX1050
 
 ## Disclaimer
 This work is highly based on the following repos:<br>
